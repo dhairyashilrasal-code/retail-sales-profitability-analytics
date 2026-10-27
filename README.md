@@ -49,7 +49,7 @@ Build an interactive Power BI dashboard with KPI cards, product and regional com
 ## Power BI Dashboard
 
 The interactive Power BI dashboard provides an overview of retail sales performance, including total revenue, total profit, profit margin, product profitability, regional revenue, and monthly revenue trends. A sales channel slicer allows users to explore performance across different channels.
-
+![Retail Sales and Profitability Dashboard](Screenshots/powerbi_dashboard.png)
 
 
 
